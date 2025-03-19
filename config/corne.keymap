@@ -53,7 +53,7 @@
 &kp ESCAPE        &kp EXCL       &kp AT            &kp HASH   &kp DLLR        &kp PRCNT        &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL         &kp QUESTION  &trans  &kp BSPC
 &kp TAB           &kp LEFT_ALT   &kp PIPE          &kp CARET  &kp AMPS        &kp PAGE_UP      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp SINGLE_QUOTE  &kp PLUS      &trans  &kp GRAVE
 &kp LEFT_CONTROL  &kp LESS_THAN  &kp GREATER_THAN  &kp MINUS  &kp UNDERSCORE  &kp PAGE_DOWN    &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp BACKSLASH     &kp STAR      &trans  &kp TILDE
-                                                   &kp LGUI   &trans          &kp SPACE        &kp RET               &mo 3                  &kp RALT
+                                                   &kp LGUI   &mo 3           &kp SPACE        &kp RET               &trans                 &kp RALT
             >;
         };
 
